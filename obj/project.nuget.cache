@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5VwMQsDOqCDDBFs25wPuAWOu5gOmoxBGp3O9XjffvBOdtoNF62k7QdUWZvl/ggQmgilmXWnl+1ryZ+bT3+wkkg==",
+  "dgSpecHash": "hXFWxE/RbuxQeuEZ4dPc8zb4wmgJYJRbPtiMB1QrqP11ppMycfZOdpPmQD+bM+CSIuWprzln0nSc1eL+e9Dazw==",
   "success": true,
-  "projectFilePath": "G:\\Marcius\\APP\\ApiMarcius\\API_AppMarciusMagazine.csproj",
+  "projectFilePath": "G:\\Marcius\\APP\\API_PRINCIPAL\\API_AppMarciusMagazine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",

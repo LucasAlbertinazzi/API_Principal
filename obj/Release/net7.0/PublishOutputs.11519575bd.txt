@@ -1,0 +1,17 @@
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\API_AppMarciusMagazine.exe
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\appsettings.json
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\API_AppMarciusMagazine.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\API_AppMarciusMagazine.runtimeconfig.json
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\API_AppMarciusMagazine.pdb
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\Npgsql.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Marcius\APP\API_PRINCIPAL\obj\Release\net7.0\PubTmp\Out\API_AppMarciusMagazine.deps.json

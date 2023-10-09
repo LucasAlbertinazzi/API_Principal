@@ -1454,11 +1454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Marcius\\APP\\ApiMarcius\\API_AppMarciusMagazine.csproj",
+      "projectUniqueName": "G:\\Marcius\\APP\\API_PRINCIPAL\\API_AppMarciusMagazine.csproj",
       "projectName": "API_AppMarciusMagazine",
-      "projectPath": "G:\\Marcius\\APP\\ApiMarcius\\API_AppMarciusMagazine.csproj",
+      "projectPath": "G:\\Marcius\\APP\\API_PRINCIPAL\\API_AppMarciusMagazine.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "G:\\Marcius\\APP\\ApiMarcius\\obj\\",
+      "outputPath": "G:\\Marcius\\APP\\API_PRINCIPAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
