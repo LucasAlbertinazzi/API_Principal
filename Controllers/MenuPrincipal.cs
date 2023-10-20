@@ -24,7 +24,7 @@ namespace API_AppMarciusMagazine.Controllers
                 if (!string.IsNullOrEmpty(func))
                 {
                     return await _dbContext.TblAppMarciusMenuPrincipals
-                                 .Where(x => x.BtnAtivo == true && (x.DepPermitidos.Contains(func) || x.DepPermitidos.Contains("0")))
+                                 .Where(x => x.BtnAtivo == true && (x.DepPermitidos.Contains(func))).OrderBy(y => y.TextoBtn)
                                  .ToListAsync();
                 }
 
