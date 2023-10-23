@@ -7,9 +7,9 @@ namespace API_AppMarciusMagazine.Controllers
     [ApiController]
     public class Log : ControllerBase
     {
-        private readonly DbmarciusbrtsSemanalContext _dbContext;
+        private readonly DbContextApp _dbContext;
 
-        public Log(DbmarciusbrtsSemanalContext dbContext)
+        public Log(DbContextApp dbContext)
         {
             _dbContext = dbContext;
         }

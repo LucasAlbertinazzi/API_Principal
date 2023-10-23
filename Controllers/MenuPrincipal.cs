@@ -8,9 +8,9 @@ namespace API_AppMarciusMagazine.Controllers
     [ApiController]
     public class MenuPrincipal : ControllerBase
     {
-        private readonly DbmarciusbrtsSemanalContext _dbContext;
+        private readonly DbContextApp _dbContext;
 
-        public MenuPrincipal(DbmarciusbrtsSemanalContext dbContext)
+        public MenuPrincipal(DbContextApp dbContext)
         {
             _dbContext = dbContext;
         }

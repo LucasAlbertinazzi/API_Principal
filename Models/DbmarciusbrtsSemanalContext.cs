@@ -4,13 +4,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API_AppMarciusMagazine.Models;
 
-public partial class DbmarciusbrtsSemanalContext : DbContext
+public partial class DbContextApp : DbContext
 {
-    public DbmarciusbrtsSemanalContext()
+    public DbContextApp()
     {
     }
 
-    public DbmarciusbrtsSemanalContext(DbContextOptions<DbmarciusbrtsSemanalContext> options)
+    public DbContextApp(DbContextOptions<DbContextApp> options)
         : base(options)
     {
     }
@@ -9075,7 +9075,7 @@ public partial class DbmarciusbrtsSemanalContext : DbContext
                 .HasPrecision(2)
                 .HasColumnName("data");
             entity.Property(e => e.IdNfeArmazemMarcius)
-                .HasComment("codigo na tbl_nfe referente a nfe de armazem emitida pela marcius")
+                .HasComment("codigo na tbl_nfe referente a nfe de armazem emitida pela AppEmpresarialMultFuncional")
                 .HasColumnName("id_nfe_armazem_marcius");
         });
 

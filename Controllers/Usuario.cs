@@ -9,9 +9,9 @@ namespace API_AppMarciusMagazine.Controllers
     [ApiController]
     public class Usuario : ControllerBase
     {
-        private readonly DbmarciusbrtsSemanalContext _dbContext;
+        private readonly DbContextApp _dbContext;
 
-        public Usuario(DbmarciusbrtsSemanalContext dbContext)
+        public Usuario(DbContextApp dbContext)
         {
             _dbContext = dbContext;
         }

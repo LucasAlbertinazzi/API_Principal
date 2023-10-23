@@ -8,9 +8,9 @@ namespace API_AppMarciusMagazine.Controllers
     [ApiController]
     public class AppVersion : ControllerBase
     {
-        private readonly DbmarciusbrtsSemanalContext _dbContext;
+        private readonly DbContextApp _dbContext;
 
-        public AppVersion(DbmarciusbrtsSemanalContext dbContext)
+        public AppVersion(DbContextApp dbContext)
         {
             _dbContext = dbContext;
         }
